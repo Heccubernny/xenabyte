@@ -1,48 +1,11 @@
 ### Hi there, 👋🏼 I'm Xenabyte.
-[![Actions Status](https://github.com/xenabyte/xenabyte/workflows/wakatime-stats/badge.svg)](https://github.com/xenabyte/xenabyte/actions)
-[![Actions Status](https://github.com/xenabyte/xenabyte/workflows/update-gh-activity/badge.svg)](https://github.com/xenabyte/xenabyte/actions)
+<!--[![Actions Status](https://github.com/xenabyte/xenabyte/workflows/wakatime-stats/badge.svg)](https://github.com/xenabyte/xenabyte/actions)
+[![Actions Status](https://github.com/xenabyte/xenabyte/workflows/update-gh-activity/badge.svg)](https://github.com/xenabyte/xenabyte/actions)-->
 ![](https://visitor-badge.glitch.me/badge?page_id=xenabyte.xenabyte)
 
 
 
-```<!--python
-class aboutme():
-  def __init__(self, name, pronoun):
-    self.name = name
-    self.pronoun = pronoun
 
-  def show(self):
-    print("My name is ", self.name)
-    print("Pronoun: ", self.pronoun)
-    
-myself = aboutme("Heccubernny", "He/ His/ Him")
-myself.show()-->
-```
-
-
-```<!--javascript
-technologyLanguages = [HTML, CSS, Javascript,  Python, Java]
-technologyLibraries = [React Js, Angular Js, Laravel, Django]
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [HTML, CSS, Javascript, Python, Java],
-   WebTechnologies: {
-      frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Bootstrap", "Material Design", "Materialize"]
-      },
-      backEnd: {
-         Python: ["Django"],
-         js: ["Node"],
-         others: ["Bash", "Selenium"]
-      },
-      databases: ["mySQL", "SQLite3"]
-      
-   },
-   currently: ["First year undergraduate student, open for job and internship opportunities"],
-   challenge: "I'm working on improving my social networking life.",
-};-->
-```
 
 
  </br></br>
